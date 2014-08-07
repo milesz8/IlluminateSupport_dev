@@ -1,0 +1,11 @@
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\bin\Debug\IlluminateSupport_dev.exe.config
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\bin\Debug\IlluminateSupport_dev.exe
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\bin\Debug\IlluminateSupport_dev.pdb
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.csprojResolveAssemblyReference.cache
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.Properties.Resources.resources
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.csproj.GenerateResource.Cache
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.exe
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.pdb
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.pointViewerForm.resources
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.Form2.resources
+C:\ws\problems\IlluminateSupport_dev\IlluminateSupport_dev\obj\Debug\IlluminateSupport_dev.filter.resources
